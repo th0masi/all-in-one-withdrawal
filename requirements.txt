@@ -1,5 +1,5 @@
 cffi~=1.15.1
-Pillow~=10.0.0
+Pillow~=9.5.0
 pip~=22.3.1
 attrs~=23.1.0
 wheel~=0.38.4

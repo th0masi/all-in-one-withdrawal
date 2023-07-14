@@ -9,7 +9,7 @@ First version: https://github.com/th0masi/all-cex-withdrawal
 ## Usage
 Here is what the GUI looks like:
 
-![GUI Preview](https://i.yapx.cc/WQnnc.jpg)
+![GUI Preview](https://i.imgur.com/CDSSPcU.jpg)
 
 
 ## Donations

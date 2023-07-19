@@ -436,6 +436,10 @@ def bitget_get_withdrawal_info(token):
                             min_withdrawal = float(min_withdrawal)
 
                         chain_name = chain_info.get('chain', '')
+
+                        if chain_name == 'ETH':
+                            chain_name = 'ERC20'
+                            
                         if is_withdraw_enabled:
                             network_data[chain_name] = (chain_name, fee, min_withdrawal)
                             networks.append(chain_name)
